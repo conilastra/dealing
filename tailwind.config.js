@@ -6,7 +6,6 @@ module.exports = {
       colors: {
         dealingBlue: '#4577fb',
         dealingLightBlue: '#28c3ff',
-        dealingGradient: 'linear-gradient(90deg,#4577fb,#28c3ff)'
       }
     },
   },
